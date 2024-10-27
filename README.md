@@ -2,6 +2,8 @@
 
 This project(TASK 8) was completed as part of my internship with Innomatics Research Labs. It is a web-based Student Management Portal built with React, Redux, and Bootstrap, created as part of the Innomatics internship program. The application enables users to manage student data with an interactive UI.
 
+The project is live at : [Student Management Portal](https://student-management-portal-innomatics.netlify.app/)
+
 ## Features
 - **Student Management:** Add, edit, view, and delete students.
 - **State Management:** Redux for centralized state management.
